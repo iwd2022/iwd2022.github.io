@@ -7,7 +7,7 @@ const learnless = document.getElementsByClassName("learnless");
 
 console.log("Loaded")
 
-for (let i = 0; i < 7; i++) {
+for (let i = 0; i < 6; i++) {
 
     dateCircle[i].onclick = function thisfunc() {
         dateColor(dateCircle[i]);
