@@ -175,8 +175,10 @@ a :hover {
 }
 
 #satBox{
+    /*
     width : 95vw;
     max-width : 800px;
+    */
     background-color : whitesmoke;
 
     flex-direction : column;
