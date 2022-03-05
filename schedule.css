@@ -80,6 +80,8 @@ a :hover{
 
 #sunCircle{
     background-color : whitesmoke;
+    border : purple 1px dashed;
+   
 }
 #sunCircleText{
     color : purple;
@@ -441,10 +443,12 @@ a :hover{
         grid-template-rows : repeat (2, auto);
         
     }
+    /*
     .row{
         flex-direction : row;
         height : 90%;
     }
+    */
 
     .circle{
         width : 15vw;
