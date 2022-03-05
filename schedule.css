@@ -122,7 +122,7 @@ a :hover {
     align-content : center;
     justify-self : center;
     align-self : center;
-    margin-top : 15%; 
+   
 }
 
 #monBox{
@@ -174,7 +174,7 @@ a :hover {
     align-content : center;
     justify-self : center;
     align-self : center;
-    margin-top : 15%; 
+   
 }
 
 #satBox{
@@ -190,7 +190,7 @@ a :hover {
 
 .event1{
 
-    height : 40vh;
+    /*height : 40vh;*/
     display : grid;
     grid-template-columns: 20% 80%;
     width : 93%;
@@ -209,7 +209,7 @@ a :hover {
 .event2{
 
     padding : 1vh 1vw 1vh 1vw;
-    height : 40vh;
+    /*height : 40vh;*/
     display : grid;
     grid-template-columns: 20% 80%;
     width : 93%;
