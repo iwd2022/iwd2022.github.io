@@ -432,7 +432,7 @@ a :hover{
 
 }
 
-@media screen and (max-width : 600px){
+@media screen and (max-width : 800px){
     #buttonCont{
         display : grid;
         grid-template-rows : repeat (2, auto);
