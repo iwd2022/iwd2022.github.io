@@ -20,9 +20,11 @@ function dateColor(current){
     
     for (let i = 0; i < 6; i++) {
         dateCircle[i].style.backgroundColor = "rgba(99,3,150,0.6)";
+        dateCircle[i].style.border = "none";
         dateCircle[i].children[0].style.color = "white";
         infoBoxes[i].style.display = 'none';
     }
+    current.style.border = "purple 1px dashed";
     current.style.backgroundColor = "whitesmoke";
     current.children[0].style.color = "purple";
 }
