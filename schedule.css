@@ -120,7 +120,7 @@ a :hover{
     align-self : center;
     margin-top : 15%; 
 }
-
+/*
 #monBox{
     
     width : 95vw;
@@ -135,6 +135,7 @@ a :hover{
     align-self : center;
     margin-top : 15%; 
 }
+*/
 
 #tueBox {
    display : none;
