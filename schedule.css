@@ -84,8 +84,9 @@ a :hover {
 #sunCircleText{
     color : purple;
 }
-
+/*
 #descCont{
+    
     height : auto;
     justify-content : center;
     justify-items : center;
@@ -96,6 +97,7 @@ a :hover {
     align-items : center;
     display : initial;
 }
+*/
 
 .descBox {
 
@@ -109,11 +111,11 @@ a :hover {
 }
 
 #sunBox{
-    
+    /*
     width : 95vw;
     height : auto;
     max-width : 800px;
-    
+    */
     display : flex;
     flex-direction : column;
     justify-content: center;
@@ -124,11 +126,11 @@ a :hover {
 }
 
 #monBox{
-    
+    /*
     width : 95vw;
     height : auto;
     max-width : 800px;
-    
+    */
     display : none;
     flex-direction : column;
     justify-content: center;
@@ -150,10 +152,11 @@ a :hover {
 }
 
 #thurBox{
+    /*
     width : 95vw;
     height : auto;
     max-width : 800px;
-    
+    */
     display : none;
     flex-direction : column;
     justify-content: center;
