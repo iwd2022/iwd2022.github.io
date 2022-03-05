@@ -30,10 +30,10 @@ a :hover{
 }
 #buttonCont{
     
-    display : flex;
+    display : grid;
     /*flex-direction : row;*/
-  
-
+    grid-template-columns : auto auto;
+    
     top : 20%;
 
     height : 90%;
@@ -48,6 +48,8 @@ a :hover{
 .row{
 
     display : flex;
+    flex-direction : row;
+    height : 90%
     justify-content : center; 
      
     
